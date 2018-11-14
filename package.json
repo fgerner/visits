@@ -1,0 +1,22 @@
+{
+  "name": "visits",
+  "version": "1.0.0",
+  "description": "count shit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.noshit.com"
+  },
+  "keywords": [
+    "hej"
+  ],
+  "author": "fred",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "redis": "2.8.0"
+  }
+}
